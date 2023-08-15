@@ -1,0 +1,10 @@
+ItemName_FR {
+	ItemName_Base.FoxEars = "Oreilles de Renard",
+	ItemName_Base.FoxTail = "Queue de Renard",
+	ItemName_Base.KitsuneNineTail = "Neuf queues de Kitsune",
+	ItemName_Base.Microskirt = "Micro Jupe",
+	ItemName_Base.VeryLongGloves = "Gants très longs",
+	ItemName_Base.ThighHighSocks = "Cuissardes-chaussettes à talons hauts",
+	ItemName_Base.Shoes_ThighHighBoots = "Cuissardes à talons hauts",
+	ItemName_Base.BunnySuit = "Costume de Lapin",
+}
