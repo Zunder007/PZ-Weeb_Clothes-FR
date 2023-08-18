@@ -1,4 +1,4 @@
-ItemName_FR {
+ItemName_FR = {
 	ItemName_Base.FoxEars = "Oreilles de Renard",
 	ItemName_Base.FoxTail = "Queue de Renard",
 	ItemName_Base.KitsuneNineTail = "Neuf queues de Kitsune",
